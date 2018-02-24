@@ -10,7 +10,7 @@ Step 1
 install virtulbox
 
 Step 2
-1.install ubuntu 64bit and name it as 'master'
+1.install ubuntu 64bit and name it as 'master'.
 (sometimes there have no ubuntu-64bit in the default menu, google 'ubuntu 64bit virtualbox' to modify computer setting)
 2.go to master's setting -> network
 choose "Bridged Adapter" in "Attached to" column

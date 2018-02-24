@@ -1,6 +1,7 @@
 # hadoop_2
-How to install hadoop_2 on ubuntu (It may cause faliure on hadoop 3 series)
-We install 1 master and 2 slaves(data1 and data2) here
+How to install hadoop 2 on ubuntu (It may cause faliure on hadoop 3)
+We install 1 master and 2 slaves(data1 and data2) here.
+
 Reference: 
 1.Hadoop+sprak大數據巨量分析與機器學習 整合開發實戰
 2.大數據分析與應用 使用hadoop與spark
